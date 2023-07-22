@@ -1,0 +1,2 @@
+# Library Management System
+The Library Management System project website serves as a comprehensive tool to oversee all aspects of the library, including book inventory maintenance, book issuance and return records, student information, and tracking penalties for late book returns. This project encompasses all the necessary activities to effectively operate the library system. The development of this library system was carried out using ASP.NET C#.
